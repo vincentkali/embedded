@@ -1,0 +1,3 @@
+sudo hcitool -i hci0 cmd 0x08 0x0008 1E 02 01 06 1A FF 00 4C \
+02 15 E2 0A 39 F4 73 F5 4B C4 A1 2F 17 D1 AD 07 A9 61 00 00 \
+00 00 C8 00
